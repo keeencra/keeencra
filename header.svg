@@ -14,9 +14,9 @@
   <path d="M1017 107 L971 153 L1017 199 M1063 107 L1109 153 L1063 199" fill="none" stroke="url(#accent)" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
   <circle cx="1040" cy="156" r="8" fill="#8de9c2"/>
   <rect x="56" y="51" width="7" height="20" rx="3" fill="#8de9c2"/>
-  <text x="78" y="67" fill="#a9c8bd" font-family="Arial, sans-serif" font-size="16" letter-spacing="4">OPEN SOURCE COLLECTION</text>
+  <text x="78" y="67" fill="#a9c8bd" font-family="Arial, sans-serif" font-size="16" letter-spacing="4">PROJECTS &amp; OPEN SOURCE</text>
   <text x="52" y="160" fill="#f1faf6" font-family="Arial, sans-serif" font-size="80" font-weight="700" letter-spacing="-3">keeencra<tspan fill="#8de9c2">.</tspan></text>
   <text x="58" y="207" fill="#c6ddd3" font-family="Arial, sans-serif" font-size="22">AI tools. Creative workflows. Open exploration.</text>
   <path d="M58 248 H730" stroke="#d4f5e4" stroke-opacity=".16"/>
-  <text x="58" y="283" fill="#8de9c2" font-family="Arial, sans-serif" font-size="13" letter-spacing="2">CODE / DESIGN / MEDIA / WRITING / RESEARCH</text>
+  <text x="58" y="283" fill="#8de9c2" font-family="Arial, sans-serif" font-size="13" letter-spacing="2">BUILD / CODE / DESIGN / MEDIA / WRITING / RESEARCH</text>
 </svg>

@@ -3,8 +3,9 @@
 </p>
 
 <p align="center"><b>把好用的工具，整理成顺手的工作流。</b></p>
-<p align="center">AI 编程 · 视觉创作 · 视频制作 · 中文写作 · 投研工具</p>
+<p align="center">自制项目 · AI 编程 · 视觉创作 · 视频制作 · 中文写作 · 投研工具</p>
 <p align="center">
+  <a href="#self-made">自制项目</a> ·
   <a href="https://github.com/keeencra?tab=repositories">全部仓库</a> ·
   <a href="#project-map">项目分类</a> ·
   <a href="#upstream">开源致谢</a>
@@ -12,25 +13,50 @@
 
 ---
 
+<a name="self-made"></a>
+
+## 自制项目
+
+**我的工具与个人改进项目。** 从 Mac 菜单栏到 iPhone 与 Apple Watch，把 Codex 的额度与任务状态放在触手可及的地方。
+
+[查看自制项目分类 →](https://github.com/search?q=user%3Akeeencra%20fork%3Atrue%20topic%3Aself-made&type=repositories)
+
+<table width="100%">
+<tr>
+<td width="440" valign="top">
+<h3>◉ Codex Usage Bar</h3>
+<p><sub>macOS · Swift · AppKit</sub></p>
+<p>轻量菜单栏额度监控工具，支持 Pro / Plus，查看剩余额度、重置时间与最近任务用量。</p>
+<p><a href="https://github.com/keeencra/codex-usage-bar"><b>查看 codex-usage-bar →</b></a></p>
+</td>
+<td width="440" valign="top">
+<h3>◷ Codex Quota Watch Plus</h3>
+<p><sub>iPhone · Apple Watch · Widgets</sub></p>
+<p>在手机、手表与小组件查看 Codex 额度和任务状态，支持远程访问、Bark 提醒及自动续签工具。</p>
+<p><a href="https://github.com/keeencra/codex-quota-watch-plus"><b>查看 codex-quota-watch-plus →</b></a></p>
+<p><sub>个人改进版 · 基于 <a href="https://github.com/cyq1017/codex-quota-watch">cyq1017/codex-quota-watch</a></sub></p>
+</td>
+</tr>
+</table>
+
 <a name="project-map"></a>
 
-## 项目地图
+## 开源收藏与工具分类
 
-这里收录了 **16 个工具项目，按 5 个方向整理**。点击项目名即可进入仓库，点击分类入口可按 Topics 筛选。
+除上方 **2 个自制与个人改进项目**，这里还有 **15 个开源工具，按 5 个方向整理**。共收录 17 个项目。点击项目名即可进入仓库。
 
-这些项目是我收藏、探索或改进的开源 Fork；原作者与上游链接见文末。
+下方项目为开源 Fork 收藏；原作者与上游链接见文末。
 
 <table width="100%">
 <tr>
 <td width="440" valign="top">
 <h3>⌘ 编程助手与开发工具</h3>
-<p><sub>CODE &amp; TOOLS · 5 PROJECTS</sub></p>
-<p><a href="https://github.com/keeencra/codex-quota-watch-plus"><b>codex-quota-watch-plus</b></a><br/><sub>把额度监控与任务提醒带到手机和手表</sub></p>
+<p><sub>CODE &amp; TOOLS · 4 PROJECTS</sub></p>
 <p><a href="https://github.com/keeencra/awesome-codex-skills"><b>awesome-codex-skills</b></a><br/><sub>Codex 技能合集与工作流资源</sub></p>
 <p><a href="https://github.com/keeencra/claude-code-zh-cn"><b>claude-code-zh-cn</b></a><br/><sub>让 Claude Code 支持简体中文</sub></p>
 <p><a href="https://github.com/keeencra/codex-windows-fast-patch-skill"><b>codex-windows-fast-patch-skill</b></a><br/><sub>Windows 版 Codex 补丁恢复与维护</sub></p>
 <p><a href="https://github.com/keeencra/CodexPlusPlus"><b>CodexPlusPlus</b></a><br/><sub>Codex 增强启动器与管理面板</sub></p>
-<p><a href="https://github.com/search?q=user%3Akeeencra%20fork%3Atrue%20topic%3Aai-coding&amp;type=repositories">查看此分类 →</a></p>
+<p><a href="https://github.com/search?q=user%3Akeeencra%20fork%3Atrue%20topic%3Aai-coding%20-topic%3Aself-made&amp;type=repositories">查看此分类 →</a></p>
 </td>
 <td width="440" valign="top">
 <h3>✦ 图像生成与视觉设计</h3>
@@ -82,7 +108,7 @@
 <a name="upstream"></a>
 
 <details>
-<summary><b>开源致谢 · 查看 16 个项目的上游来源</b></summary>
+<summary><b>开源致谢 · 查看 Fork 项目的上游来源</b></summary>
 
 感谢原作者与社区的分享。这里的分类导航不代表原创归属；各项目的许可证与使用说明以对应仓库为准。
 
@@ -109,4 +135,4 @@
 
 ---
 
-<p align="center"><sub>保持好奇，让工具服务于创作。<br/>项目目录整理于 2026.09 · 主页展示仓库不计入上述 16 个工具项目</sub></p>
+<p align="center"><sub>保持好奇，让工具服务于创作。<br/>项目目录整理于 2026.09 · 主页展示仓库不计入上述 17 个工具项目</sub></p>
