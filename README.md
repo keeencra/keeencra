@@ -3,7 +3,7 @@
 </p>
 
 <p align="center"><b>把好用的工具，整理成顺手的工作流。</b></p>
-<p align="center">AI 编程 · 视觉创作 · 视频制作 · 中文写作 · 投研工具 · 移动调试</p>
+<p align="center">AI 编程 · 视觉创作 · 视频制作 · 中文写作 · 投研工具</p>
 <p align="center">
   <a href="https://github.com/keeencra?tab=repositories">全部仓库</a> ·
   <a href="#project-map">项目分类</a> ·
@@ -16,7 +16,7 @@
 
 ## 项目地图
 
-这里收录了 **17 个工具项目，按 6 个方向整理**。点击项目名即可进入仓库，点击分类入口可按 Topics 筛选。
+这里收录了 **16 个工具项目，按 5 个方向整理**。点击项目名即可进入仓库，点击分类入口可按 Topics 筛选。
 
 这些项目是我收藏、探索或改进的开源 Fork；原作者与上游链接见文末。
 
@@ -60,18 +60,12 @@
 </td>
 </tr>
 <tr>
-<td width="440" valign="top">
+<td colspan="2" valign="top">
 <h3>↗ 股票分析与投研工具</h3>
 <p><sub>MARKETS &amp; RESEARCH · 2 PROJECTS</sub></p>
 <p><a href="https://github.com/keeencra/daily_stock_analysis"><b>daily_stock_analysis</b></a><br/><sub>行情、新闻与 AI 分析报告自动推送</sub></p>
 <p><a href="https://github.com/keeencra/UZI-Skill"><b>UZI-Skill</b></a><br/><sub>A 股、港股、美股的多维研究技能</sub></p>
 <p><a href="https://github.com/search?q=user%3Akeeencra%20fork%3Atrue%20topic%3Astock-analysis&amp;type=repositories">查看此分类 →</a></p>
-</td>
-<td width="440" valign="top">
-<h3>◎ 移动端调试与位置模拟</h3>
-<p><sub>MOBILE &amp; TESTING · 1 PROJECT</sub></p>
-<p><a href="https://github.com/keeencra/kail_location"><b>kail_location</b></a><br/><sub>Android 位置、路线与传感器模拟调试</sub></p>
-<p><a href="https://github.com/search?q=user%3Akeeencra%20fork%3Atrue%20topic%3Amobile-testing&amp;type=repositories">查看此分类 →</a></p>
 </td>
 </tr>
 </table>
@@ -88,7 +82,7 @@
 <a name="upstream"></a>
 
 <details>
-<summary><b>开源致谢 · 查看 17 个项目的上游来源</b></summary>
+<summary><b>开源致谢 · 查看 16 个项目的上游来源</b></summary>
 
 感谢原作者与社区的分享。这里的分类导航不代表原创归属；各项目的许可证与使用说明以对应仓库为准。
 
@@ -110,10 +104,9 @@
 | [Humanizer-zh](https://github.com/keeencra/Humanizer-zh) | [op7418/Humanizer-zh](https://github.com/op7418/Humanizer-zh) |
 | [daily_stock_analysis](https://github.com/keeencra/daily_stock_analysis) | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) |
 | [UZI-Skill](https://github.com/keeencra/UZI-Skill) | [wbh604/UZI-Skill](https://github.com/wbh604/UZI-Skill) |
-| [kail_location](https://github.com/keeencra/kail_location) | [noellegazelle6/kail_location](https://github.com/noellegazelle6/kail_location) |
 
 </details>
 
 ---
 
-<p align="center"><sub>保持好奇，让工具服务于创作。<br/>项目目录整理于 2026.09 · 主页展示仓库不计入上述 17 个工具项目</sub></p>
+<p align="center"><sub>保持好奇，让工具服务于创作。<br/>项目目录整理于 2026.09 · 主页展示仓库不计入上述 16 个工具项目</sub></p>
