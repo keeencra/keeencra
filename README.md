@@ -20,9 +20,9 @@
 
 这些项目是我收藏、探索或改进的开源 Fork；原作者与上游链接见文末。
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="440" valign="top">
 <h3>⌘ 编程助手与开发工具</h3>
 <p><sub>CODE &amp; TOOLS · 5 PROJECTS</sub></p>
 <p><a href="https://github.com/keeencra/codex-quota-watch-plus"><b>codex-quota-watch-plus</b></a><br/><sub>把额度监控与任务提醒带到手机和手表</sub></p>
@@ -32,7 +32,7 @@
 <p><a href="https://github.com/keeencra/CodexPlusPlus"><b>CodexPlusPlus</b></a><br/><sub>Codex 增强启动器与管理面板</sub></p>
 <p><a href="https://github.com/search?q=user%3Akeeencra%20fork%3Atrue%20topic%3Aai-coding&amp;type=repositories">查看此分类 →</a></p>
 </td>
-<td width="50%" valign="top">
+<td width="440" valign="top">
 <h3>✦ 图像生成与视觉设计</h3>
 <p><sub>IMAGE &amp; DESIGN · 5 PROJECTS</sub></p>
 <p><a href="https://github.com/keeencra/claude-design-card"><b>claude-design-card</b></a><br/><sub>将文字与网页变成精致设计卡片</sub></p>
@@ -44,7 +44,7 @@
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="440" valign="top">
 <h3>▶ 视频创作与媒体工具</h3>
 <p><sub>VIDEO &amp; MEDIA · 3 PROJECTS</sub></p>
 <p><a href="https://github.com/keeencra/MoneyPrinterTurbo"><b>MoneyPrinterTurbo</b></a><br/><sub>从一个主题到配音、字幕和短视频</sub></p>
@@ -52,7 +52,7 @@
 <p><a href="https://github.com/keeencra/StripchatRecorder"><b>StripchatRecorder</b></a><br/><sub>自托管直播录制、后处理与通知</sub></p>
 <p><a href="https://github.com/search?q=user%3Akeeencra%20fork%3Atrue%20topic%3Avideo-media&amp;type=repositories">查看此分类 →</a></p>
 </td>
-<td width="50%" valign="top">
+<td width="440" valign="top">
 <h3>✎ 中文写作与内容润色</h3>
 <p><sub>WORDS &amp; IDEAS · 1 PROJECT</sub></p>
 <p><a href="https://github.com/keeencra/Humanizer-zh"><b>Humanizer-zh</b></a><br/><sub>让中文表达更自然，减少模板感</sub></p>
@@ -60,14 +60,14 @@
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="440" valign="top">
 <h3>↗ 股票分析与投研工具</h3>
 <p><sub>MARKETS &amp; RESEARCH · 2 PROJECTS</sub></p>
 <p><a href="https://github.com/keeencra/daily_stock_analysis"><b>daily_stock_analysis</b></a><br/><sub>行情、新闻与 AI 分析报告自动推送</sub></p>
 <p><a href="https://github.com/keeencra/UZI-Skill"><b>UZI-Skill</b></a><br/><sub>A 股、港股、美股的多维研究技能</sub></p>
 <p><a href="https://github.com/search?q=user%3Akeeencra%20fork%3Atrue%20topic%3Astock-analysis&amp;type=repositories">查看此分类 →</a></p>
 </td>
-<td width="50%" valign="top">
+<td width="440" valign="top">
 <h3>◎ 移动端调试与位置模拟</h3>
 <p><sub>MOBILE &amp; TESTING · 1 PROJECT</sub></p>
 <p><a href="https://github.com/keeencra/kail_location"><b>kail_location</b></a><br/><sub>Android 位置、路线与传感器模拟调试</sub></p>
