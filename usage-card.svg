@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="280" viewBox="0 0 600 280" role="img" aria-labelledby="title desc">
+<title id="title">Codex Usage Bar</title><desc id="desc">Mac 菜单栏工具的概念插画，非软件实机截图。</desc>
+<rect width="600" height="280" rx="12" fill="#f0ede6"/>
+<g font-family="Arial, Helvetica, sans-serif"><text x="28" y="37" font-size="13" letter-spacing="2" fill="#6b655c">01 / DESKTOP</text><text x="28" y="238" font-size="27" font-weight="700" fill="#252b2d">A glance. Back to work.</text><text x="28" y="260" font-size="12" letter-spacing="1" fill="#797269">CODEX USAGE BAR / macOS</text></g>
+<rect x="155" y="55" width="345" height="116" rx="13" fill="#d8d3c8"/>
+<rect x="147" y="47" width="345" height="116" rx="13" fill="#fffdf8" stroke="#d6d0c3"/>
+<path d="M148 79h343" stroke="#e2ddd2"/><g fill="#c4beb1"><circle cx="164" cy="63" r="4"/><circle cx="178" cy="63" r="4"/><circle cx="192" cy="63" r="4"/></g>
+<rect x="396" y="54" width="71" height="18" rx="5" fill="#ed683f"/><g stroke="#fff" stroke-width="2" fill="none"><path d="M409 59l-4 4 4 4m9-8 4 4-4 4"/><path d="M433 60h23m-23 6h17"/></g>
+<rect x="310" y="88" width="174" height="107" rx="12" fill="#222a2e"/>
+<text x="325" y="111" font-family="Arial, sans-serif" font-size="12" fill="#faf7ed">CODEX</text><circle cx="466" cy="107" r="4" fill="#ed683f"/>
+<rect x="325" y="127" width="143" height="8" rx="4" fill="#435054"/><rect x="325" y="127" width="100" height="8" rx="4" fill="#ed916d"/>
+<rect x="325" y="147" width="143" height="8" rx="4" fill="#435054"/><rect x="325" y="147" width="118" height="8" rx="4" fill="#c8d5bc"/>
+<path d="M325 174h45m8 0h24" stroke="#80918f" stroke-width="4" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">keeencra — 把想法做成工具</title><desc id="desc">个人作品与开源工具收藏。米白底色、黑色字标与橙色几何图形。</desc>
+<rect width="1200" height="360" rx="18" fill="#f5f2eb"/>
+<g fill="#1e2428" font-family="Arial, Helvetica, sans-serif">
+<circle cx="52" cy="48" r="6" fill="#ed683f"/><text x="70" y="54" font-size="16" letter-spacing="3">THE PERSONAL WORKSPACE</text>
+<text x="46" y="185" font-size="118" font-weight="800" letter-spacing="-7">keeencra<tspan fill="#ed683f">.</tspan></text>
+<text x="54" y="238" font-family="PingFang SC, Microsoft YaHei, sans-serif" font-size="29" font-weight="500">把想法做成工具，让创作更顺手。</text>
+<path d="M54 286H1146" stroke="#cecac0"/>
+<text x="54" y="324" font-size="14" letter-spacing="2">BUILD WITH CURIOSITY.</text>
+<text x="1146" y="324" text-anchor="end" font-size="14" letter-spacing="2">PERSONAL PROJECTS / OPEN SOURCE</text>
+</g>
+<g transform="translate(910 58)">
+<rect x="20" y="20" width="186" height="186" rx="36" fill="#e4dfd3" transform="rotate(12 113 113)"/>
+<rect width="186" height="186" rx="36" fill="#ed683f"/>
+<path d="M58 60L25 93L58 126M128 60L161 93L128 126M105 46L81 140" stroke="#fff9ed" stroke-width="10" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="182" cy="7" r="22" fill="#20262a"/><path d="M173 7h18M182-2v18" stroke="#f5f2eb" stroke-width="3"/>
+</g>
+</svg>

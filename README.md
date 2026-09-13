@@ -1,114 +1,104 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/keeencra/keeencra/main/header.svg" width="100%" alt="keeencra — AI tools, creative workflows and open-source exploration" />
+<img src="https://raw.githubusercontent.com/keeencra/keeencra/main/cover.svg" width="100%" alt="keeencra · 把想法做成工具，让创作更顺手" />
 </p>
 
-<p align="center"><b>把好用的工具，整理成顺手的工作流。</b></p>
-<p align="center">自制项目 · AI 编程 · 视觉创作 · 视频制作 · 中文写作 · 投研工具</p>
 <p align="center">
-  <a href="#self-made">自制项目</a> ·
-  <a href="https://github.com/keeencra?tab=repositories">全部仓库</a> ·
-  <a href="#project-map">项目分类</a> ·
-  <a href="#upstream">开源致谢</a>
+<b><a href="#self-made">01 自制项目</a></b>　 /　
+<a href="#project-map">02 开源工具箱</a>　 /　
+<a href="#upstream">03 开源致谢</a>　 /　
+<a href="https://github.com/keeencra?tab=repositories">全部仓库 ↗</a>
 </p>
 
----
+<br/>
 
 <a name="self-made"></a>
 
-## 自制项目
+## 01 / 自制项目
 
-**我的工具与个人改进项目。** 从 Mac 菜单栏到 iPhone 与 Apple Watch，把 Codex 的额度与任务状态放在触手可及的地方。
+从桌面到随身设备，让 AI 开发的进展触手可及。
 
-[查看自制项目分类 →](https://github.com/search?q=user%3Akeeencra%20fork%3Atrue%20topic%3Aself-made&type=repositories)
-
-<table width="100%">
+<table>
 <tr>
-<td width="440" valign="top">
-<h3>◉ Codex Usage Bar</h3>
-<p><sub>macOS · Swift · AppKit</sub></p>
-<p>轻量菜单栏额度监控工具，支持 Pro / Plus，查看剩余额度、重置时间与最近任务用量。</p>
-<p><a href="https://github.com/keeencra/codex-usage-bar"><b>查看 codex-usage-bar →</b></a></p>
+<td width="50%" valign="top">
+<a href="https://github.com/keeencra/codex-usage-bar"><img src="https://raw.githubusercontent.com/keeencra/keeencra/main/usage-card.svg" width="100%" alt="Codex Usage Bar · Mac 菜单栏工具概念插画" /></a>
+<h3><a href="https://github.com/keeencra/codex-usage-bar">Codex Usage Bar ↗</a></h3>
+<p><code>macOS</code> <code>Swift</code> <code>AppKit</code></p>
+<p><b>额度与任务，一眼掌握。</b></p>
+<p>轻量菜单栏工具，随时查看 Codex 剩余额度、重置时间与最近任务用量。</p>
+<p><a href="https://github.com/keeencra/codex-usage-bar#readme">了解项目 →</a></p>
+<p><sub>独立自制 · 面向 Mac 的日常开发</sub></p>
 </td>
-<td width="440" valign="top">
-<h3>◷ Codex Quota Watch Plus</h3>
-<p><sub>iPhone · Apple Watch · Widgets</sub></p>
-<p>在手机、手表与小组件查看 Codex 额度和任务状态，支持远程访问、Bark 提醒及自动续签工具。</p>
-<p><a href="https://github.com/keeencra/codex-quota-watch-plus"><b>查看 codex-quota-watch-plus →</b></a></p>
-<p><sub>个人改进版 · 基于 <a href="https://github.com/cyq1017/codex-quota-watch">cyq1017/codex-quota-watch</a></sub></p>
+<td width="50%" valign="top">
+<a href="https://github.com/keeencra/codex-quota-watch-plus"><img src="https://raw.githubusercontent.com/keeencra/keeencra/main/companion-card.svg" width="100%" alt="码伴 CodeCompanion · 手机与可选手表端概念插画" /></a>
+<h3><a href="https://github.com/keeencra/codex-quota-watch-plus">码伴 · CodeCompanion ↗</a></h3>
+<p><code>iPhone</code> <code>Apple Watch 可选</code></p>
+<p><b>离开桌面，也能跟上进展。</b></p>
+<p>Mac＋iPhone 即可查看项目任务、处理远程审批，掌握额度、余额与提醒。</p>
+<p><a href="https://github.com/keeencra/codex-quota-watch-plus#readme">了解项目 →</a></p>
+<p><sub>个人改进版 · 原 Codex Quota Watch Plus<br/>基于 <a href="https://github.com/cyq1017/codex-quota-watch">cyq1017/codex-quota-watch</a></sub></p>
 </td>
 </tr>
 </table>
+
+<sub>封面为概念插画；实际界面与部署说明请进入对应项目查看。</sub>
+
+<br/>
 
 <a name="project-map"></a>
 
-## 开源收藏与工具分类
+## 02 / 开源工具箱
 
-除上方 **2 个自制与个人改进项目**，这里还有 **15 个开源工具，按 5 个方向整理**。共收录 17 个项目。点击项目名即可进入仓库。
+**15 个 Fork 收藏 · 5 个方向**　按用途整理，点击项目即可开始探索。
 
-下方项目为开源 Fork 收藏；原作者与上游链接见文末。
-
-<table width="100%">
+<table>
 <tr>
-<td width="440" valign="top">
-<h3>⌘ 编程助手与开发工具</h3>
-<p><sub>CODE &amp; TOOLS · 4 PROJECTS</sub></p>
-<p><a href="https://github.com/keeencra/awesome-codex-skills"><b>awesome-codex-skills</b></a><br/><sub>Codex 技能合集与工作流资源</sub></p>
-<p><a href="https://github.com/keeencra/claude-code-zh-cn"><b>claude-code-zh-cn</b></a><br/><sub>让 Claude Code 支持简体中文</sub></p>
-<p><a href="https://github.com/keeencra/codex-windows-fast-patch-skill"><b>codex-windows-fast-patch-skill</b></a><br/><sub>Windows 版 Codex 补丁恢复与维护</sub></p>
-<p><a href="https://github.com/keeencra/CodexPlusPlus"><b>CodexPlusPlus</b></a><br/><sub>Codex 增强启动器与管理面板</sub></p>
-<p><a href="https://github.com/search?q=user%3Akeeencra%20fork%3Atrue%20topic%3Aai-coding%20-topic%3Aself-made&amp;type=repositories">查看此分类 →</a></p>
-</td>
-<td width="440" valign="top">
-<h3>✦ 图像生成与视觉设计</h3>
-<p><sub>IMAGE &amp; DESIGN · 5 PROJECTS</sub></p>
-<p><a href="https://github.com/keeencra/claude-design-card"><b>claude-design-card</b></a><br/><sub>将文字与网页变成精致设计卡片</sub></p>
-<p><a href="https://github.com/keeencra/female-portrait-director"><b>female-portrait-director</b></a><br/><sub>人像摄影提示词与视觉风格编排</sub></p>
-<p><a href="https://github.com/keeencra/GPT-Image2-Skill"><b>GPT-Image2-Skill</b></a><br/><sub>图像生成、编辑与提示词灵感库</sub></p>
-<p><a href="https://github.com/keeencra/guizang-ppt-skill"><b>guizang-ppt-skill</b></a><br/><sub>杂志风与瑞士风 HTML 演示文稿</sub></p>
-<p><a href="https://github.com/keeencra/guizang-social-card-skill"><b>guizang-social-card-skill</b></a><br/><sub>小红书图文与微信公众号封面</sub></p>
-<p><a href="https://github.com/search?q=user%3Akeeencra%20fork%3Atrue%20topic%3Aimage-design&amp;type=repositories">查看此分类 →</a></p>
+<td width="190" valign="top"><h3>⌘ 编程与开发</h3><p><sub>04 PROJECTS</sub></p><a href="https://github.com/search?q=user%3Akeeencra%20fork%3Aonly%20topic%3Aai-coding%20-topic%3Aself-made&amp;type=repositories">浏览分类 →</a></td>
+<td width="650">
+<p><a href="https://github.com/keeencra/awesome-codex-skills"><b>awesome-codex-skills</b></a><br/><sub>Codex 技能合集，覆盖开发和日常工作流。</sub></p>
+<p><a href="https://github.com/keeencra/claude-code-zh-cn"><b>claude-code-zh-cn</b></a><br/><sub>Claude Code 简体中文本地化插件。</sub></p>
+<p><a href="https://github.com/keeencra/codex-windows-fast-patch-skill"><b>codex-windows-fast-patch-skill</b></a><br/><sub>Windows 上的 Codex Desktop 本地补丁恢复与维护技能。</sub></p>
+<p><a href="https://github.com/keeencra/CodexPlusPlus"><b>CodexPlusPlus</b></a><br/><sub>Codex App 增强启动器与管理面板。</sub></p>
 </td>
 </tr>
 <tr>
-<td width="440" valign="top">
-<h3>▶ 视频创作与媒体工具</h3>
-<p><sub>VIDEO &amp; MEDIA · 3 PROJECTS</sub></p>
-<p><a href="https://github.com/keeencra/MoneyPrinterTurbo"><b>MoneyPrinterTurbo</b></a><br/><sub>从一个主题到配音、字幕和短视频</sub></p>
-<p><a href="https://github.com/keeencra/seedance-prompt-skill"><b>seedance-prompt-skill</b></a><br/><sub>Seedance 视频提示词与分镜设计</sub></p>
-<p><a href="https://github.com/keeencra/StripchatRecorder"><b>StripchatRecorder</b></a><br/><sub>自托管直播录制、后处理与通知</sub></p>
-<p><a href="https://github.com/search?q=user%3Akeeencra%20fork%3Atrue%20topic%3Avideo-media&amp;type=repositories">查看此分类 →</a></p>
-</td>
-<td width="440" valign="top">
-<h3>✎ 中文写作与内容润色</h3>
-<p><sub>WORDS &amp; IDEAS · 1 PROJECT</sub></p>
-<p><a href="https://github.com/keeencra/Humanizer-zh"><b>Humanizer-zh</b></a><br/><sub>让中文表达更自然，减少模板感</sub></p>
-<p><a href="https://github.com/search?q=user%3Akeeencra%20fork%3Atrue%20topic%3Achinese-writing&amp;type=repositories">查看此分类 →</a></p>
+<td width="190" valign="top"><h3>✦ 图像与设计</h3><p><sub>05 PROJECTS</sub></p><a href="https://github.com/search?q=user%3Akeeencra%20fork%3Aonly%20topic%3Aimage-design%20-topic%3Aself-made&amp;type=repositories">浏览分类 →</a></td>
+<td width="650">
+<p><a href="https://github.com/keeencra/claude-design-card"><b>claude-design-card</b></a><br/><sub>将文字或网页转成平台封面、社交分享卡和编辑排版图片。</sub></p>
+<p><a href="https://github.com/keeencra/female-portrait-director"><b>female-portrait-director</b></a><br/><sub>生成女性人像摄影提示词，管理风格、服装、构图与光线。</sub></p>
+<p><a href="https://github.com/keeencra/GPT-Image2-Skill"><b>GPT-Image2-Skill</b></a><br/><sub>GPT Image 2 图像生成与编辑的提示词库、技能和命令行工具。</sub></p>
+<p><a href="https://github.com/keeencra/guizang-ppt-skill"><b>guizang-ppt-skill</b></a><br/><sub>生成杂志风、瑞士风 HTML 演示文稿及配图和封面。</sub></p>
+<p><a href="https://github.com/keeencra/guizang-social-card-skill"><b>guizang-social-card-skill</b></a><br/><sub>生成小红书图文组图与微信公众号封面对。</sub></p>
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
-<h3>↗ 股票分析与投研工具</h3>
-<p><sub>MARKETS &amp; RESEARCH · 2 PROJECTS</sub></p>
-<p><a href="https://github.com/keeencra/daily_stock_analysis"><b>daily_stock_analysis</b></a><br/><sub>行情、新闻与 AI 分析报告自动推送</sub></p>
-<p><a href="https://github.com/keeencra/UZI-Skill"><b>UZI-Skill</b></a><br/><sub>A 股、港股、美股的多维研究技能</sub></p>
-<p><a href="https://github.com/search?q=user%3Akeeencra%20fork%3Atrue%20topic%3Astock-analysis&amp;type=repositories">查看此分类 →</a></p>
+<td width="190" valign="top"><h3>▶ 视频与媒体</h3><p><sub>03 PROJECTS</sub></p><a href="https://github.com/search?q=user%3Akeeencra%20fork%3Aonly%20topic%3Avideo-media%20-topic%3Aself-made&amp;type=repositories">浏览分类 →</a></td>
+<td width="650">
+<p><a href="https://github.com/keeencra/MoneyPrinterTurbo"><b>MoneyPrinterTurbo</b></a><br/><sub>从主题或关键词自动生成文案、配音、字幕并合成短视频。</sub></p>
+<p><a href="https://github.com/keeencra/seedance-prompt-skill"><b>seedance-prompt-skill</b></a><br/><sub>为 Seedance 生成中文视频提示词、分镜与镜头描述。</sub></p>
+<p><a href="https://github.com/keeencra/StripchatRecorder"><b>StripchatRecorder</b></a><br/><sub>自托管直播录制与管理工具，支持后处理和通知。</sub></p>
+</td>
+</tr>
+<tr>
+<td width="190" valign="top"><h3>✎ 中文写作</h3><p><sub>01 PROJECTS</sub></p><a href="https://github.com/search?q=user%3Akeeencra%20fork%3Aonly%20topic%3Achinese-writing%20-topic%3Aself-made&amp;type=repositories">浏览分类 →</a></td>
+<td width="650">
+<p><a href="https://github.com/keeencra/Humanizer-zh"><b>Humanizer-zh</b></a><br/><sub>识别并改写 AI 写作中生硬、模板化的中文表达。</sub></p>
+</td>
+</tr>
+<tr>
+<td width="190" valign="top"><h3>↗ 股票研究</h3><p><sub>02 PROJECTS</sub></p><a href="https://github.com/search?q=user%3Akeeencra%20fork%3Aonly%20topic%3Astock-analysis%20-topic%3Aself-made&amp;type=repositories">浏览分类 →</a></td>
+<td width="650">
+<p><a href="https://github.com/keeencra/daily_stock_analysis"><b>daily_stock_analysis</b></a><br/><sub>聚合行情、新闻和大模型分析，生成股票报告并定时推送。</sub></p>
+<p><a href="https://github.com/keeencra/UZI-Skill"><b>UZI-Skill</b></a><br/><sub>面向 A 股、港股、美股的个股多维分析技能。</sub></p>
 </td>
 </tr>
 </table>
 
-### 从需求出发
-
-| 我想要… | 可以从这里开始 |
-| :--- | :--- |
-| 在手机或手表上查看 Codex 状态 | [Codex Quota Watch Plus](https://github.com/keeencra/codex-quota-watch-plus) |
-| 把文章变成小红书图文或演示文稿 | [社交图文](https://github.com/keeencra/guizang-social-card-skill) · [网页 PPT](https://github.com/keeencra/guizang-ppt-skill) |
-| 从创意到视频 | [分镜提示词](https://github.com/keeencra/seedance-prompt-skill) · [短视频合成](https://github.com/keeencra/MoneyPrinterTurbo) |
-| 改善中文表达 | [Humanizer-zh](https://github.com/keeencra/Humanizer-zh) |
+<br/>
 
 <a name="upstream"></a>
 
 <details>
-<summary><b>开源致谢 · 查看 Fork 项目的上游来源</b></summary>
+<summary><b>03 / 开源致谢与上游来源</b></summary>
 
 感谢原作者与社区的分享。这里的分类导航不代表原创归属；各项目的许可证与使用说明以对应仓库为准。
 
@@ -133,6 +123,7 @@
 
 </details>
 
+
 ---
 
-<p align="center"><sub>保持好奇，让工具服务于创作。<br/>项目目录整理于 2026.09 · 主页展示仓库不计入上述 17 个工具项目</sub></p>
+<p align="center"><b>保持好奇，持续动手。</b><br/><sub>Made &amp; curated by keeencra · 2026</sub></p>
