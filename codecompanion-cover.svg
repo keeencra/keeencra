@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-labelledby="title desc">
+<title id="title">keeencra · 码伴 CodeCompanion</title>
+<desc id="desc">一个码伴，连接桌面与随身设备。Mac、iPhone 和可选 Apple Watch 的概念插画，非实机截图。</desc>
+<defs><linearGradient id="panel" x2="1" y2="1"><stop stop-color="#283d35"/><stop offset="1" stop-color="#172823"/></linearGradient></defs>
+<rect width="1200" height="440" rx="20" fill="#f3f2e9"/>
+<path d="M710 0h470q20 0 20 20v400q0 20-20 20H710Z" fill="url(#panel)"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<circle cx="51" cy="46" r="5" fill="#557854"/><text x="67" y="52" fill="#52664f" font-size="15" letter-spacing="2">KEEENCRA / PERSONAL PROJECT</text>
+<text x="45" y="175" fill="#24382e" font-family="PingFang SC, Microsoft YaHei, sans-serif" font-size="100" font-weight="700" letter-spacing="-5">码伴<tspan fill="#708b56">.</tspan></text>
+<text x="51" y="220" fill="#24382e" font-size="39" font-weight="700" letter-spacing="-1">CodeCompanion</text>
+<text x="52" y="276" fill="#455844" font-family="PingFang SC, Microsoft YaHei, sans-serif" font-size="26">一个码伴，连接桌面与随身设备。</text>
+<path d="M52 321H659" stroke="#cccfc0"/>
+<text x="52" y="356" fill="#607058" font-size="13" letter-spacing="1.8">MAC / iPHONE / APPLE WATCH</text>
+<text x="52" y="397" fill="#4f624b" font-family="PingFang SC, Microsoft YaHei, sans-serif" font-size="18">额度与余额　·　项目与任务　·　小组件与提醒</text>
+</g>
+<g fill="none" stroke="#a3be89" stroke-opacity=".13"><circle cx="972" cy="205" r="178"/><circle cx="972" cy="205" r="141"/></g>
+<rect x="759" y="99" width="314" height="213" rx="15" fill="#0f1b18" stroke="#6f8774" stroke-width="2"/>
+<rect x="768" y="108" width="296" height="172" rx="7" fill="#32493a"/>
+<path d="M768 132h296" stroke="#7c9671" stroke-opacity=".35"/>
+<circle cx="781" cy="120" r="3" fill="#9aa990"/><circle cx="792" cy="120" r="3" fill="#9aa990"/>
+<rect x="994" y="114" width="56" height="12" rx="4" fill="#c5db91"/>
+<rect x="783" y="150" width="81" height="112" rx="9" fill="#25392f"/>
+<path d="M798 171h48m-48 20h32m-32 20h40" stroke="#687f60" stroke-width="5" stroke-linecap="round"/>
+<rect x="879" y="144" width="167" height="117" rx="11" fill="#14241d"/>
+<text x="894" y="166" font-family="Arial, sans-serif" font-size="11" letter-spacing="1" fill="#cedeb2">CODECOMPANION</text>
+<rect x="894" y="180" width="136" height="9" rx="4" fill="#405741"/><rect x="894" y="180" width="100" height="9" rx="4" fill="#c5db91"/>
+<rect x="894" y="201" width="136" height="9" rx="4" fill="#405741"/><rect x="894" y="201" width="115" height="9" rx="4" fill="#8fae84"/>
+<path d="M894 234h44m12 0h31" stroke="#718c66" stroke-width="5" stroke-linecap="round"/>
+<path d="M892 313v18h-35v8h119v-8h-35v-18" fill="#738671"/>
+<rect x="1020" y="166" width="108" height="195" rx="23" fill="#0d1915" stroke="#9cae90" stroke-width="2"/>
+<rect x="1027" y="173" width="94" height="181" rx="17" fill="#2f4434"/><rect x="1055" y="179" width="37" height="6" rx="3" fill="#101d16"/>
+<circle cx="1074" cy="231" r="26" fill="none" stroke="#536f46" stroke-width="7"/><path d="M1074 205a26 26 0 1 1-25 33" fill="none" stroke="#d2e6a1" stroke-width="7" stroke-linecap="round"/>
+<path d="M1064 231l7 7 13-15" stroke="#d2e6a1" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="1039" y="278" width="71" height="23" rx="6" fill="#4b6347"/><rect x="1039" y="311" width="71" height="23" rx="6" fill="#4b6347"/>
+<path d="M1048 289h42m-42 33h31" stroke="#baceaa" stroke-width="4" stroke-linecap="round"/>
+<rect x="981" y="277" width="31" height="95" rx="12" fill="#748662"/><rect x="966" y="294" width="61" height="58" rx="15" fill="#112018" stroke="#9cad8a" stroke-width="2"/>
+<circle cx="996" cy="323" r="17" fill="none" stroke="#c6de98" stroke-width="4"/><path d="M989 323l5 5 9-11" fill="none" stroke="#c6de98" stroke-width="2.5"/>
+<text x="753" y="401" fill="#bdd1aa" font-family="Arial, sans-serif" font-size="12" letter-spacing="2">ONE COMPANION. EVERY SCREEN.</text>
+</svg>

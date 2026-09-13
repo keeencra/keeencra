@@ -1,46 +1,59 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/keeencra/keeencra/main/cover.svg" width="100%" alt="keeencra · 把想法做成工具，让创作更顺手" />
+<a href="https://github.com/keeencra/codex-quota-watch-plus"><img src="https://raw.githubusercontent.com/keeencra/keeencra/main/codecompanion-cover.svg" width="100%" alt="keeencra · 码伴 CodeCompanion — 一个码伴，连接桌面与随身设备" /></a>
 </p>
 
 <p align="center">
-<b><a href="#self-made">01 自制项目</a></b>　 /　
+<b><a href="#self-made">01 码伴</a></b>　 /　
 <a href="#project-map">02 开源工具箱</a>　 /　
 <a href="#upstream">03 开源致谢</a>　 /　
 <a href="https://github.com/keeencra?tab=repositories">全部仓库 ↗</a>
 </p>
 
-<br/>
-
 <a name="self-made"></a>
 
-## 01 / 自制项目
+## 01 / 我的项目 · 码伴
 
-从桌面到随身设备，让 AI 开发的进展触手可及。
+**桌面看额度，随身看进展。** 我把原来的 Codex Usage Bar 与 Codex Quota Watch Plus 整合为 **码伴 · CodeCompanion**，统一提供 Mac、iPhone 与可选 Apple Watch 的使用体验。
+
+<p>
+<code>macOS</code> <code>iOS</code> <code>watchOS 可选</code> <code>Swift / SwiftUI / AppKit</code>
+</p>
+
+**[进入码伴 →](https://github.com/keeencra/codex-quota-watch-plus)**　·　[源码与版本下载](https://github.com/keeencra/codex-quota-watch-plus/blob/main/docs/downloads.md)　·　[更新日志](https://github.com/keeencra/codex-quota-watch-plus/blob/main/CHANGELOG.md)
 
 <table>
 <tr>
-<td width="50%" valign="top">
-<a href="https://github.com/keeencra/codex-usage-bar"><img src="https://raw.githubusercontent.com/keeencra/keeencra/main/usage-card.svg" width="100%" alt="Codex Usage Bar · Mac 菜单栏工具概念插画" /></a>
-<h3><a href="https://github.com/keeencra/codex-usage-bar">Codex Usage Bar ↗</a></h3>
-<p><code>macOS</code> <code>Swift</code> <code>AppKit</code></p>
-<p><b>额度与任务，一眼掌握。</b></p>
-<p>轻量菜单栏工具，随时查看 Codex 剩余额度、重置时间与最近任务用量。</p>
-<p><a href="https://github.com/keeencra/codex-usage-bar#readme">了解项目 →</a></p>
-<p><sub>独立自制 · 面向 Mac 的日常开发</sub></p>
+<td width="33%" valign="top">
+<h3>⌘ Mac · 专注桌面</h3>
+<p>菜单栏圆环与数字、额度面板，以及小／中／大号桌面小组件。</p>
+<p><b>Mac 端可独立使用。</b></p>
+<p><a href="https://github.com/keeencra/codex-quota-watch-plus/blob/main/macos/README.md">Mac 安装说明 →</a></p>
 </td>
-<td width="50%" valign="top">
-<a href="https://github.com/keeencra/codex-quota-watch-plus"><img src="https://raw.githubusercontent.com/keeencra/keeencra/main/companion-card.svg" width="100%" alt="码伴 CodeCompanion · 手机与可选手表端概念插画" /></a>
-<h3><a href="https://github.com/keeencra/codex-quota-watch-plus">码伴 · CodeCompanion ↗</a></h3>
-<p><code>iPhone</code> <code>Apple Watch 可选</code></p>
-<p><b>离开桌面，也能跟上进展。</b></p>
-<p>Mac＋iPhone 即可查看项目任务、处理远程审批，掌握额度、余额与提醒。</p>
-<p><a href="https://github.com/keeencra/codex-quota-watch-plus#readme">了解项目 →</a></p>
-<p><sub>个人改进版 · 原 Codex Quota Watch Plus<br/>基于 <a href="https://github.com/cyq1017/codex-quota-watch">cyq1017/codex-quota-watch</a></sub></p>
+<td width="34%" valign="top">
+<h3>▤ iPhone · 随身掌握</h3>
+<p>查看项目任务、处理支持的远程审批，掌握 Codex 额度与可选 DeepSeek 余额。</p>
+<p><b>小组件与提醒随时可见。</b></p>
+<p><a href="https://github.com/keeencra/codex-quota-watch-plus#readme">手机使用说明 →</a></p>
+</td>
+<td width="33%" valign="top">
+<h3>◷ Watch · 抬腕速览</h3>
+<p>查看额度和任务进展，处理支持的审批请求，把常用信息带到手腕。</p>
+<p><b>按需扩展，无需必配。</b></p>
+<p><a href="https://github.com/keeencra/codex-quota-watch-plus/blob/main/docs/gallery.md">查看界面图库 →</a></p>
 </td>
 </tr>
 </table>
 
-<sub>封面为概念插画；实际界面与部署说明请进入对应项目查看。</sub>
+<sub>顶部为概念插画。手机／手表功能需 Mac 服务提供数据；具体配置与支持范围见项目文档。</sub>
+
+<details>
+<summary><b>项目整合说明 · 从旧项目找到码伴</b></summary>
+
+- **Codex Usage Bar** 的 Mac 显示功能已集成到码伴。新使用入口统一为码伴；[原仓库](https://github.com/keeencra/codex-usage-bar)保留作历史参考。
+- **Codex Quota Watch Plus** 已更名为码伴；继续使用 [codex-quota-watch-plus](https://github.com/keeencra/codex-quota-watch-plus) 仓库地址，旧链接仍然有效。
+- 码伴由 keeencra 持续开发，保留 [cyq1017/codex-quota-watch](https://github.com/cyq1017/codex-quota-watch) 的开源来源与致谢。
+
+</details>
 
 <br/>
 
